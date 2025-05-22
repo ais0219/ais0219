@@ -1,4 +1,4 @@
-I am an experienced scientist with over a decade in biomedical engineering, data science, numerical methods, and electromagnetics. Known for tackling complex challenges with practical solutions.
+I am an experienced scientist with over a decade in biomedical engineering, data science, computational methods, and electromagnetics. 
 
 This is my Data Science / Machine Learning Portofolio.
 
